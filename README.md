@@ -1,6 +1,6 @@
 # makedatelist
 
-A command-line tool that generates a list of dates between two specified dates. Available in both Python and Go implementations.
+A command-line tool that generates a list of dates between two specified dates.
 
 ## Features
 
@@ -10,8 +10,6 @@ A command-line tool that generates a list of dates between two specified dates. 
 - **Cross-platform**: Available for Linux, Windows, and macOS
 
 ## Installation
-
-### Go Version (Recommended)
 
 ```bash
 # Clone the repository
@@ -23,16 +21,6 @@ make build
 
 # Install to system (optional)
 make install
-```
-
-### Python Version
-
-```bash
-# Make the script executable
-chmod +x makedatelist.py
-
-# Run directly
-./makedatelist.py
 ```
 
 ## Usage
